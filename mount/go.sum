@@ -2,3 +2,5 @@ github.com/khulnasoft-lab/docker-sys/mountinfo v0.6.3 h1:TTjxWINcqb8Ki8fIXGq34pm
 github.com/khulnasoft-lab/docker-sys/mountinfo v0.6.3/go.mod h1:G713HzZReoUZZRnKZKtm6HZjjI5sGow6bEN60jLf0es=
 golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a h1:dGzPydgVsqGcTRVwiLJ1jVbufYwmzD3LfVPLKsKg+0k=
 golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/sys v0.18.0 h1:DBdB3niSjOA/O0blCZBqDefyWNYveAYMNF1Wum0DYQ4=
+golang.org/x/sys v0.18.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
